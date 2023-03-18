@@ -70,3 +70,19 @@ body {
 .trayecto{
     margin-left: 4%;
 }
+.link{
+    padding: 20px;
+    border-radius: 5px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.boton {
+    width: 100%;
+    display: grid;
+    place-content: center;
+    place-items: center;
+    height: 180px;
+}
